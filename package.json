@@ -1,0 +1,4 @@
+{
+  "main": "./js/script.js",
+  "scripts" : {"bulid": "node. /js/script.js"}
+}
